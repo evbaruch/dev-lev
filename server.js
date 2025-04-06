@@ -1,3 +1,14 @@
+import express from "express";
+import cors from "cors";
+import fs from "fs";
+
+const app = express();
+const PORT = 5000;
+const filePath = "./public/data/pages.json";
+
+app.use(cors());
+app.use(express.json());
+
 app.post("/api/updatePageData", (req, res) => {
   const { id, updates } = req.body;
 
@@ -27,4 +38,8 @@ app.post("/api/updatePageData", (req, res) => {
     console.error("Error updating page data:", error.message);
     res.status(500).json({ error: "Internal server error." });
   }
+});
+
+app.listen(PORT, () => {
+  console.log(`Server is running on http://localhost:${PORT}`);
 });
