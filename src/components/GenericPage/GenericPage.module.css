@@ -1,0 +1,140 @@
+.genericPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Align content to the top */
+  align-items: center; /* Center content horizontally */
+  padding: 20px;
+  width: 100vw; /* Ensure the container spans the full width of the viewport */
+  height: auto; /* Allow the height to adjust based on content */
+  min-height: 100vh; /* Ensure the container is at least as tall as the viewport */
+  box-sizing: border-box;
+  overflow-y: auto; /* Allow vertical scrolling if content overflows */
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+  width: 100%; /* Ensure the header spans the full width */
+}
+
+.sections {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%; /* Ensure sections span the full width */
+  max-width: 800px; /* Limit the width for better readability */
+  align-self: center; /* Center the sections horizontally */
+}
+
+.section {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  overflow: hidden; /* Prevent content overflow */
+  word-wrap: break-word; /* Break long words to prevent overflow */
+  overflow-wrap: break-word; /* Ensure text wraps properly */
+  width: 100%; /* Ensure each section spans the full width */
+}
+
+.contributorSection img {
+  max-height: 60vh; /* Set a maximum height for the images */
+  border-radius: 100px; /* Make the image circular */
+  width: 34px; /* Maintain aspect ratio */
+  display: block;
+  background-size: cover; /* Ensure the image covers the container */
+  margin: 0 auto; /* Center the image horizontally */
+  max-width: 100%; /* Ensure the image does not exceed the container width */
+}
+
+.imageSection img {
+  max-height: 60vh; /* Set a maximum height for the images */
+  width: auto; /* Maintain aspect ratio */
+  display: block;
+  margin: 0 auto; /* Center the image horizontally */
+  max-width: 100%; /* Ensure the image does not exceed the container width */
+}
+
+.footer {
+  display: flex;
+  flex-wrap: wrap; /* Allow items to wrap on smaller screens */
+  justify-content: space-between;
+  margin-top: 20px;
+  gap: 10px; /* Add spacing between items on smaller screens */
+  width: 100%; /* Ensure the footer spans the full width */
+  max-width: 800px; /* Limit the width for better readability */
+}
+
+.footerItem {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  cursor: pointer; /* Make the like button clickable */
+}
+
+.footerItem:hover .icon {
+  transform: scale(1.2); /* Slightly enlarge the like icon on hover */
+  color: #007bff; /* Change the color of the like icon on hover */
+  transition: transform 0.2s ease, color 0.2s ease; /* Smooth transition for hover effects */
+}
+
+.icon {
+  font-size: 18px;
+}
+
+.commentSection {
+  margin-top: 20px;
+  padding: 10px;
+  border-top: 1px solid #ccc;
+  width: 100%; /* Ensure the comment section spans the full width */
+  max-width: 800px; /* Limit the width for better readability */
+}
+
+.commentInput {
+  display: flex;
+  flex-wrap: wrap; /* Allow input and button to stack on smaller screens */
+  gap: 10px;
+  margin-bottom: 10px;
+  width: 100%; /* Ensure the input section spans the full width */
+}
+
+.commentInput input {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  min-width: 200px; /* Ensure input doesn't shrink too much */
+}
+
+.commentInput button {
+  padding: 8px 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.commentInput button:hover {
+  background-color: #0056b3;
+}
+
+.commentList {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%; /* Ensure the comment list spans the full width */
+  max-width: 800px; /* Limit the width for better readability */
+}
+
+.comment {
+  display: flex;
+  align-content: start;
+  padding: 8px;
+  background-color: #f9f9f9; /* Light background for the comment */
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  color: #333; /* Set a dark text color for visibility */
+  font-size: 14px; /* Optional: Adjust font size for better readability */
+  width: 100%; /* Ensure each comment spans the full width */
+}

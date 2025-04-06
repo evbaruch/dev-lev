@@ -1,0 +1,327 @@
+[
+  {
+    "id": 1,
+    "images": [
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkUFmp5jSF-DhrD5102bzHU7RbidetfqYfA&s",
+        "title": "OpenAI GPT-4 Update",
+        "description": "AI",
+        "index": 1
+      },
+      {
+        "url": "https://assets.aboutamazon.com/dims4/default/e73bc85/2147483647/strip/true/crop/4093x2304+7+0/resize/1240x698!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F36%2F59%2Feba4adcc4f88a972b5639ed1dde0%2Fadobestock-712831308.jpeg",
+        "title": "Google Bard Expansion",
+        "description": "Chatbot",
+        "index": 2
+      }
+    ],
+    "texts": [
+      {
+        "title": "OpenAI GPT-4 Update",
+        "text": "OpenAI announced a major update to GPT-4 last week. It now features improved reasoning capabilities, allowing it to handle complex queries more effectively.",
+        "index": 1
+      },
+      {
+        "title": "Google Bard Expansion",
+        "text": "Google announced the expansion of Bard, its AI chatbot, to more countries. The update includes support for multimodal inputs, allowing users to interact with text, images, and voice.",
+        "index": 2
+      }
+    ],
+    "contributors": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pierre-Person.jpg/800px-Pierre-Person.jpg",
+        "name": "John Doe",
+        "description": "AI Researcher",
+        "index": 1
+      },
+      {
+        "url": "https://img.haarets.co.il/bs/0000018d-0d60-de9c-a3df-6ff992ac0000/7d/1e/2e90c90f4871b066a0ebc6feabdc/011105.jpg?precrop=2089,1215,x0,y146&width=420&height=244&cmsprod",
+        "name": "Jane Smith",
+        "description": "Google Engineer",
+        "index": 2
+      }
+    ],
+    "likes": 1,
+    "views": 1,
+    "comments": [
+      "4567890",
+      "no dude you suck"
+    ]
+  },
+  {
+    "id": 2,
+    "images": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D5612AQEvKem8o3S-Bw/article-cover_image-shrink_720_1280/B56ZT38V9HHsAM-/0/1739326580150?e=1749081600&v=beta&t=WhjAVyBvBNYxe686m7I42rnIH1rpyAJ53268DGKJT3w",
+        "title": "New AI Model Released",
+        "description": "AI Research",
+        "index": 1
+      },
+      {
+        "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1y9vFc.img?w=768&h=432&m=6",
+        "title": "Tech Conference Highlights",
+        "description": "Technology",
+        "index": 2
+      }
+    ],
+    "texts": [
+      {
+        "title": "New AI Model Released",
+        "text": "A new AI model has been released, showcasing state-of-the-art performance in natural language processing tasks.",
+        "index": 1
+      },
+      {
+        "title": "Tech Conference Highlights",
+        "text": "The annual tech conference highlighted advancements in AI, robotics, and quantum computing.",
+        "index": 2
+      }
+    ],
+    "contributors": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pierre-Person.jpg/800px-Pierre-Person.jpg",
+        "name": "John Doe",
+        "description": "AI Researcher",
+        "index": 1
+      },
+      {
+        "url": "https://img.haarets.co.il/bs/0000018d-0d60-de9c-a3df-6ff992ac0000/7d/1e/2e90c90f4871b066a0ebc6feabdc/011105.jpg?precrop=2089,1215,x0,y146&width=420&height=244&cmsprod",
+        "name": "Jane Smith",
+        "description": "Google Engineer",
+        "index": 2
+      }
+    ],
+    "likes": 0,
+    "views": 0,
+    "comments": []
+  },
+  {
+    "id": 3,
+    "images": [
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Gfle8LpNKVgSWSg5QU4Y9brE0YwsIBa9FA&s",
+        "title": "AI in Healthcare",
+        "description": "Healthcare",
+        "index": 1
+      },
+      {
+        "url": "https://events.ok.ubc.ca/wp-content/uploads/sites/121/2023/04/Events-title_UBCO-Debates-AI.jpg",
+        "title": "AI Revolution",
+        "description": "Technology",
+        "index": 2
+      }
+    ],
+    "texts": [
+      {
+        "title": "AI in Healthcare",
+        "text": "AI is transforming healthcare by improving diagnostics, personalizing treatments, and enhancing patient care.",
+        "index": 1
+      },
+      {
+        "title": "AI Revolution",
+        "text": "The AI revolution is reshaping industries, from finance to education, with innovative solutions and tools.",
+        "index": 2
+      }
+    ],
+    "contributors": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pierre-Person.jpg/800px-Pierre-Person.jpg",
+        "name": "John Doe",
+        "description": "AI Researcher",
+        "index": 1
+      },
+      {
+        "url": "https://img.haarets.co.il/bs/0000018d-0d60-de9c-a3df-6ff992ac0000/7d/1e/2e90c90f4871b066a0ebc6feabdc/011105.jpg?precrop=2089,1215,x0,y146&width=420&height=244&cmsprod",
+        "name": "Jane Smith",
+        "description": "Google Engineer",
+        "index": 2
+      }
+    ],
+    "likes": 0,
+    "views": 0,
+    "comments": []
+  },
+  {
+    "id": 4,
+    "images": [
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXXHcWZkpGrr5_GvGjh9ZDvbT3jcrcslCBvAAyalNFP6llhKroPT8zZWOMuUDL4aKOubY&usqp=CAU",
+        "title": "AI in Education",
+        "description": "Education",
+        "index": 1
+      },
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo7apFmtbbP-9akBixWTktnhEWMQTLjSVIgEfiw8t1EgrJgBzD7RgC_MHGg_96jDjZgxg&usqp=CAU",
+        "title": "AI Tools for Learning",
+        "description": "Technology",
+        "index": 2
+      }
+    ],
+    "texts": [
+      {
+        "title": "AI in Education",
+        "text": "AI is revolutionizing education by providing personalized learning experiences and automating administrative tasks.",
+        "index": 1
+      },
+      {
+        "title": "AI Tools for Learning",
+        "text": "New AI tools are helping students and teachers enhance the learning process with interactive and adaptive technologies.",
+        "index": 2
+      }
+    ],
+    "contributors": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pierre-Person.jpg/800px-Pierre-Person.jpg",
+        "name": "John Doe",
+        "description": "AI Researcher",
+        "index": 1
+      },
+      {
+        "url": "https://img.haarets.co.il/bs/0000018d-0d60-de9c-a3df-6ff992ac0000/7d/1e/2e90c90f4871b066a0ebc6feabdc/011105.jpg?precrop=2089,1215,x0,y146&width=420&height=244&cmsprod",
+        "name": "Jane Smith",
+        "description": "Google Engineer",
+        "index": 2
+      }
+    ],
+    "likes": 0,
+    "views": 0,
+    "comments": []
+  },
+  {
+    "id": 5,
+    "images": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D5612AQEvKem8o3S-Bw/article-cover_image-shrink_720_1280/B56ZT38V9HHsAM-/0/1739326580150?e=1749081600&v=beta&t=WhjAVyBvBNYxe686m7I42rnIH1rpyAJ53268DGKJT3w",
+        "title": "New AI Model Released",
+        "description": "AI Research",
+        "index": 1
+      },
+      {
+        "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1y9vFc.img?w=768&h=432&m=6",
+        "title": "Tech Conference Highlights",
+        "description": "Technology",
+        "index": 2
+      }
+    ],
+    "texts": [
+      {
+        "title": "New AI Model Released",
+        "text": "A new AI model has been released, showcasing state-of-the-art performance in natural language processing tasks.",
+        "index": 1
+      },
+      {
+        "title": "Tech Conference Highlights",
+        "text": "The annual tech conference highlighted advancements in AI, robotics, and quantum computing.",
+        "index": 2
+      }
+    ],
+    "contributors": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pierre-Person.jpg/800px-Pierre-Person.jpg",
+        "name": "John Doe",
+        "description": "AI Researcher",
+        "index": 1
+      },
+      {
+        "url": "https://img.haarets.co.il/bs/0000018d-0d60-de9c-a3df-6ff992ac0000/7d/1e/2e90c90f4871b066a0ebc6feabdc/011105.jpg?precrop=2089,1215,x0,y146&width=420&height=244&cmsprod",
+        "name": "Jane Smith",
+        "description": "Google Engineer",
+        "index": 2
+      }
+    ],
+    "likes": 0,
+    "views": 0,
+    "comments": []
+  },
+  {
+    "id": 6,
+    "images": [
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Gfle8LpNKVgSWSg5QU4Y9brE0YwsIBa9FA&s",
+        "title": "AI in Healthcare",
+        "description": "Healthcare",
+        "index": 1
+      },
+      {
+        "url": "https://events.ok.ubc.ca/wp-content/uploads/sites/121/2023/04/Events-title_UBCO-Debates-AI.jpg",
+        "title": "AI Revolution",
+        "description": "Technology",
+        "index": 2
+      }
+    ],
+    "texts": [
+      {
+        "title": "AI in Healthcare",
+        "text": "AI is transforming healthcare by improving diagnostics, personalizing treatments, and enhancing patient care.",
+        "index": 1
+      },
+      {
+        "title": "AI Revolution",
+        "text": "The AI revolution is reshaping industries, from finance to education, with innovative solutions and tools.",
+        "index": 2
+      }
+    ],
+    "contributors": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pierre-Person.jpg/800px-Pierre-Person.jpg",
+        "name": "John Doe",
+        "description": "AI Researcher",
+        "index": 1
+      },
+      {
+        "url": "https://img.haarets.co.il/bs/0000018d-0d60-de9c-a3df-6ff992ac0000/7d/1e/2e90c90f4871b066a0ebc6feabdc/011105.jpg?precrop=2089,1215,x0,y146&width=420&height=244&cmsprod",
+        "name": "Jane Smith",
+        "description": "Google Engineer",
+        "index": 2
+      }
+    ],
+    "likes": 0,
+    "views": 0,
+    "comments": []
+  },
+  {
+    "id": 7,
+    "images": [
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXXHcWZkpGrr5_GvGjh9ZDvbT3jcrcslCBvAAyalNFP6llhKroPT8zZWOMuUDL4aKOubY&usqp=CAU",
+        "title": "AI in Education",
+        "description": "Education",
+        "index": 1
+      },
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo7apFmtbbP-9akBixWTktnhEWMQTLjSVIgEfiw8t1EgrJgBzD7RgC_MHGg_96jDjZgxg&usqp=CAU",
+        "title": "AI Tools for Learning",
+        "description": "Technology",
+        "index": 2
+      }
+    ],
+    "texts": [
+      {
+        "title": "AI in Education",
+        "text": "AI is revolutionizing education by providing personalized learning experiences and automating administrative tasks.",
+        "index": 1
+      },
+      {
+        "title": "AI Tools for Learning",
+        "text": "New AI tools are helping students and teachers enhance the learning process with interactive and adaptive technologies.",
+        "index": 2
+      }
+    ],
+    "contributors": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pierre-Person.jpg/800px-Pierre-Person.jpg",
+        "name": "John Doe",
+        "description": "AI Researcher",
+        "index": 1
+      },
+      {
+        "url": "https://img.haarets.co.il/bs/0000018d-0d60-de9c-a3df-6ff992ac0000/7d/1e/2e90c90f4871b066a0ebc6feabdc/011105.jpg?precrop=2089,1215,x0,y146&width=420&height=244&cmsprod",
+        "name": "Jane Smith",
+        "description": "Google Engineer",
+        "index": 2
+      }
+    ],
+    "likes": 0,
+    "views": 0,
+    "comments": []
+  }
+]
